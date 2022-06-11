@@ -4,8 +4,6 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning spring boot,angular...
 - 💞️ I’m looking to collaborate on IOT projects
-- 🎤 I'm developing IOT agriculture project with new functionalities and frameworks(personal interest)
-- ❤  Please feel free to go through this https://github.com/ravindra1111/InTheMemoryOf/blob/main/README.md
 - 📫 How to reach me ravindranadh.inavolu@gmail.com
 
 <!---
