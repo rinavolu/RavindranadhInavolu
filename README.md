@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ravindranadh Inavolu
 - 👨‍🎓 Completed B.Tech at KL University
 - 👔 Working at TCS
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning spring boot,angular...
-- 💞️ I’m looking to collaborate on IOT projects
+- 💞️ I’m looking to collaborate on IOT, Web based projects
 - 📫 How to reach me ravindranadh.inavolu@gmail.com
 
 <!---
